@@ -1,0 +1,104 @@
+{
+    "techQuestions": [
+        {
+            "question": "What is the primary goal of Web3 technology?",
+            "options": [
+                "Decentralized control",
+                "Faster social media scrolling",
+                "Lower smartphone prices",
+                "More emoji reactions"
+            ],
+            "answer": "Decentralized control"
+        },
+        {
+            "question": "Which technology powers most AI chatbots like ChatGPT?",
+            "options": [
+                "Blockchain",
+                "Large Language Models (LLMs)",
+                "Quantum computing",
+                "5G networks"
+            ],
+            "answer": "Large Language Models (LLMs)"
+        },
+        {
+            "question": "What is a key benefit of edge computing?",
+            "options": [
+                "Reduced latency",
+                "Free cloud storage",
+                "Unlimited RAM",
+                "Slower data processing"
+            ],
+            "answer": "Reduced latency"
+        },
+        {
+            "question": "Which innovation is critical for the metaverse?",
+            "options": [
+                "Virtual Reality (VR) headsets",
+                "Fax machines",
+                "Dial-up internet",
+                "Paper maps"
+            ],
+            "answer": "Virtual Reality (VR) headsets"
+        },
+        {
+            "question": "What does 'IoT' stand for?",
+            "options": [
+                "Internet of Things",
+                "International Office Tech",
+                "Input-Output Terminal",
+                "Integrated Online Test"
+            ],
+            "answer": "Internet of Things"
+        },
+        {
+            "question": "Which tech trend aims to reduce carbon footprints?",
+            "options": [
+                "Green computing",
+                "Bitcoin mining",
+                "Disposable gadgets",
+                "Diesel-powered servers"
+            ],
+            "answer": "Green computing"
+        },
+        {
+            "question": "What is the main use of quantum computing?",
+            "options": [
+                "Solving complex problems (e.g., drug discovery)",
+                "Making TikTok videos load faster",
+                "Replacing Wi-Fi routers",
+                "Printing 3D pizzas"
+            ],
+            "answer": "Solving complex problems (e.g., drug discovery)"
+        },
+        {
+            "question": "Which tool is essential for low-code development?",
+            "options": [
+                "Visual drag-and-drop interfaces",
+                "Assembly language",
+                "Punch cards",
+                "Command-line only"
+            ],
+            "answer": "Visual drag-and-drop interfaces"
+        },
+        {
+            "question": "What technology enables 'smart contracts'?",
+            "options": [
+                "Blockchain",
+                "MP3 compression",
+                "CRT monitors",
+                "Floppy disks"
+            ],
+            "answer": "Blockchain"
+        },
+        {
+            "question": "Which of these is a cybersecurity threat?",
+            "options": [
+                "Ransomware",
+                "PDF files",
+                "Screensavers",
+                "Mouse pads"
+            ],
+            "answer": "Ransomware"
+        }
+    ]
+}

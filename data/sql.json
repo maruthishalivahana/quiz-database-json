@@ -1,0 +1,104 @@
+{
+    "sql_query_speed_test": [
+        {
+            "question": "Which SQL clause helps in filtering rows?",
+            "options": [
+                "WHERE",
+                "ORDER BY",
+                "GROUP BY",
+                "HAVING"
+            ],
+            "answer": "WHERE"
+        },
+        {
+            "question": "Which index type is faster for exact match lookups?",
+            "options": [
+                "B-Tree",
+                "Hash",
+                "Full-Text",
+                "Clustered"
+            ],
+            "answer": "Hash"
+        },
+        {
+            "question": "Which keyword improves speed by limiting the result set?",
+            "options": [
+                "LIMIT",
+                "JOIN",
+                "SELECT",
+                "ORDER BY"
+            ],
+            "answer": "LIMIT"
+        },
+        {
+            "question": "Which operation can slow down a query significantly?",
+            "options": [
+                "FULL TABLE SCAN",
+                "INDEX SCAN",
+                "INDEX SEEK",
+                "HASH JOIN"
+            ],
+            "answer": "FULL TABLE SCAN"
+        },
+        {
+            "question": "What improves query performance for frequently searched columns?",
+            "options": [
+                "Indexing",
+                "Joins",
+                "Subqueries",
+                "Views"
+            ],
+            "answer": "Indexing"
+        },
+        {
+            "question": "Which SQL statement combines rows from multiple tables?",
+            "options": [
+                "JOIN",
+                "UNION",
+                "GROUP BY",
+                "SELECT"
+            ],
+            "answer": "JOIN"
+        },
+        {
+            "question": "Which SQL clause is faster for counting rows?",
+            "options": [
+                "COUNT(*)",
+                "COUNT(column_name)",
+                "SUM()",
+                "AVG()"
+            ],
+            "answer": "COUNT(*)"
+        },
+        {
+            "question": "Which approach reduces query time when working with large data?",
+            "options": [
+                "Partitioning",
+                "Nested Subqueries",
+                "Cross Join",
+                "ORDER BY"
+            ],
+            "answer": "Partitioning"
+        },
+        {
+            "question": "Which function improves performance by reducing data movement?",
+            "options": [
+                "GROUP BY",
+                "DISTINCT",
+                "LIMIT",
+                "INDEX"
+            ],
+            "answer": "INDEX"
+        },
+        {
+            "question": "Which SQL function is slow with large text data?",
+            "options": [
+                "LIKE '%term%'",
+                "IN()",
+                "COUNT()",
+                "ORDER BY"
+            ],
+            "answer": "LIKE '%term%'"
+        }
+    ]
+}

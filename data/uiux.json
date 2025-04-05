@@ -1,0 +1,104 @@
+{
+    "ui_ux_decision_making": [
+        {
+            "question": "What is more important for a landing page?",
+            "options": [
+                "Clear Call-to-Action",
+                "Complex Animations",
+                "Bright Colors Everywhere",
+                "Long Paragraphs"
+            ],
+            "answer": "Clear Call-to-Action"
+        },
+        {
+            "question": "What improves user experience the most?",
+            "options": [
+                "Fast Load Time",
+                "Heavy Graphics",
+                "Flashy Animations",
+                "Complicated Navigation"
+            ],
+            "answer": "Fast Load Time"
+        },
+        {
+            "question": "Which principle should guide button design?",
+            "options": [
+                "High Contrast",
+                "Hidden Buttons",
+                "Flat and Invisible",
+                "Complex Shapes"
+            ],
+            "answer": "High Contrast"
+        },
+        {
+            "question": "What makes a form more user-friendly?",
+            "options": [
+                "Clear Labels",
+                "Multiple Captchas",
+                "Tiny Input Fields",
+                "Long Instructions"
+            ],
+            "answer": "Clear Labels"
+        },
+        {
+            "question": "What enhances usability on mobile devices?",
+            "options": [
+                "Responsive Design",
+                "Fixed Layout",
+                "Large Background Images",
+                "Desktop-Only View"
+            ],
+            "answer": "Responsive Design"
+        },
+        {
+            "question": "What helps users easily navigate a website?",
+            "options": [
+                "Breadcrumb Navigation",
+                "Random Links",
+                "Cluttered Menus",
+                "Pop-up Ads"
+            ],
+            "answer": "Breadcrumb Navigation"
+        },
+        {
+            "question": "Which factor is most important in UX design?",
+            "options": [
+                "User Needs",
+                "Designer Preferences",
+                "Complex Animations",
+                "Minimal Text"
+            ],
+            "answer": "User Needs"
+        },
+        {
+            "question": "What makes a product visually appealing?",
+            "options": [
+                "Consistency",
+                "Random Colors",
+                "Overlapping Elements",
+                "Unaligned Text"
+            ],
+            "answer": "Consistency"
+        },
+        {
+            "question": "Which design pattern helps guide users through tasks?",
+            "options": [
+                "Wizard",
+                "Dropdown",
+                "Carousel",
+                "Modal"
+            ],
+            "answer": "Wizard"
+        },
+        {
+            "question": "What helps users understand interactive elements?",
+            "options": [
+                "Visual Feedback",
+                "Static Text",
+                "Invisible Buttons",
+                "Plain Background"
+            ],
+            "answer": "Visual Feedback"
+        }
+    ]
+}

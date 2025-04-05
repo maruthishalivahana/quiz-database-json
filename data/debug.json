@@ -1,0 +1,104 @@
+{
+    "code_debugging_basic": [
+        {
+            "question": "What will `console.log(2 + '3');` print?",
+            "options": [
+                "5",
+                "23",
+                "NaN",
+                "undefined"
+            ],
+            "answer": "23"
+        },
+        {
+            "question": "What will `console.log(3 == '3');` print?",
+            "options": [
+                "true",
+                "false",
+                "Syntax Error",
+                "undefined"
+            ],
+            "answer": "true"
+        },
+        {
+            "question": "What will `console.log(3 === '3');` print?",
+            "options": [
+                "true",
+                "false",
+                "Syntax Error",
+                "undefined"
+            ],
+            "answer": "false"
+        },
+        {
+            "question": "What is `typeof NaN`?",
+            "options": [
+                "'number'",
+                "'NaN'",
+                "'undefined'",
+                "'object'"
+            ],
+            "answer": "'number'"
+        },
+        {
+            "question": "What will `console.log(null == undefined);` print?",
+            "options": [
+                "true",
+                "false",
+                "Syntax Error",
+                "undefined"
+            ],
+            "answer": "true"
+        },
+        {
+            "question": "What will `console.log(typeof []);` print?",
+            "options": [
+                "'object'",
+                "'array'",
+                "'undefined'",
+                "'string'"
+            ],
+            "answer": "'object'"
+        },
+        {
+            "question": "What does `console.log(Boolean(0));` print?",
+            "options": [
+                "true",
+                "false",
+                "0",
+                "undefined"
+            ],
+            "answer": "false"
+        },
+        {
+            "question": "What does `console.log([] == 0);` print?",
+            "options": [
+                "true",
+                "false",
+                "NaN",
+                "undefined"
+            ],
+            "answer": "true"
+        },
+        {
+            "question": "What will `console.log(5 < 6 < 7);` print?",
+            "options": [
+                "true",
+                "false",
+                "NaN",
+                "Syntax Error"
+            ],
+            "answer": "true"
+        },
+        {
+            "question": "What will `console.log('5' - 3);` print?",
+            "options": [
+                "2",
+                "8",
+                "'53'",
+                "NaN"
+            ],
+            "answer": "2"
+        }
+    ]
+}

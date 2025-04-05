@@ -1,0 +1,104 @@
+{
+    "cybersecurity_awareness_basic": [
+        {
+            "question": "What does a strong password usually contain?",
+            "options": [
+                "Only lowercase letters",
+                "Only numbers",
+                "A mix of letters, numbers, and symbols",
+                "Your name and birthdate"
+            ],
+            "answer": "A mix of letters, numbers, and symbols"
+        },
+        {
+            "question": "What is phishing?",
+            "options": [
+                "A hacking technique",
+                "Sending fake emails to steal information",
+                "A software update",
+                "A password manager"
+            ],
+            "answer": "Sending fake emails to steal information"
+        },
+        {
+            "question": "Which of the following is safe to click in a suspicious email?",
+            "options": [
+                "A link asking for login details",
+                "An attachment from an unknown sender",
+                "A 'Reset your password' button",
+                "None of the above"
+            ],
+            "answer": "None of the above"
+        },
+        {
+            "question": "What is the main purpose of antivirus software?",
+            "options": [
+                "To design websites",
+                "To create passwords",
+                "To protect against malware",
+                "To clean your browser history"
+            ],
+            "answer": "To protect against malware"
+        },
+        {
+            "question": "What is two-factor authentication (2FA)?",
+            "options": [
+                "Logging in with two different usernames",
+                "A second layer of security like OTP",
+                "Using the same password twice",
+                "A type of firewall"
+            ],
+            "answer": "A second layer of security like OTP"
+        },
+        {
+            "question": "Which is the safest place to store your passwords?",
+            "options": [
+                "Notebook",
+                "Browser autofill",
+                "Text file on desktop",
+                "Password manager"
+            ],
+            "answer": "Password manager"
+        },
+        {
+            "question": "What does HTTPS in a website URL indicate?",
+            "options": [
+                "The site is under maintenance",
+                "The site is secure and encrypted",
+                "The site is loading slowly",
+                "The site is hosted locally"
+            ],
+            "answer": "The site is secure and encrypted"
+        },
+        {
+            "question": "Which of the following is an example of malware?",
+            "options": [
+                "Firewall",
+                "Antivirus",
+                "Ransomware",
+                "2FA"
+            ],
+            "answer": "Ransomware"
+        },
+        {
+            "question": "Why should software updates not be ignored?",
+            "options": [
+                "They are optional",
+                "They contain new wallpapers",
+                "They fix security vulnerabilities",
+                "They slow down the device"
+            ],
+            "answer": "They fix security vulnerabilities"
+        },
+        {
+            "question": "What should you do if you suspect a cybersecurity breach?",
+            "options": [
+                "Ignore it",
+                "Restart your device",
+                "Report to the IT/security team immediately",
+                "Change your screen brightness"
+            ],
+            "answer": "Report to the IT/security team immediately"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "programming_challenge_java_basic": [
+        {
+            "question": "Which keyword is used to define a class in Java?",
+            "options": [
+                "class",
+                "Class",
+                "define",
+                "struct"
+            ],
+            "answer": "class"
+        },
+        {
+            "question": "What is the correct way to start the main method in Java?",
+            "options": [
+                "public static void main(String[] args)",
+                "void main(String args[])",
+                "static void main(String args)",
+                "public void main(String[] args)"
+            ],
+            "answer": "public static void main(String[] args)"
+        },
+        {
+            "question": "Which data type is used to create a variable that should store text?",
+            "options": [
+                "String",
+                "char",
+                "text",
+                "word"
+            ],
+            "answer": "String"
+        },
+        {
+            "question": "How do you write a single-line comment in Java?",
+            "options": [
+                "// comment",
+                "# comment",
+                "/* comment */",
+                "<!-- comment -->"
+            ],
+            "answer": "// comment"
+        },
+        {
+            "question": "What will this code print?\nSystem.out.println(5 + 3 * 2);",
+            "options": [
+                "16",
+                "11",
+                "10",
+                "13"
+            ],
+            "answer": "11"
+        },
+        {
+            "question": "Which of the following is NOT a Java keyword?",
+            "options": [
+                "this",
+                "super",
+                "final",
+                "include"
+            ],
+            "answer": "include"
+        },
+        {
+            "question": "Which access modifier makes a member accessible only within its class?",
+            "options": [
+                "public",
+                "protected",
+                "private",
+                "default"
+            ],
+            "answer": "private"
+        },
+        {
+            "question": "Which method is used to get the length of a string in Java?",
+            "options": [
+                "length()",
+                "size()",
+                "getLength()",
+                "count()"
+            ],
+            "answer": "length()"
+        },
+        {
+            "question": "Which exception is thrown when a program tries to divide by zero?",
+            "options": [
+                "NullPointerException",
+                "ArithmeticException",
+                "IndexOutOfBoundsException",
+                "IOException"
+            ],
+            "answer": "ArithmeticException"
+        },
+        {
+            "question": "What is the default value of an uninitialized `int` variable in a class?",
+            "options": [
+                "0",
+                "null",
+                "undefined",
+                "NaN"
+            ],
+            "answer": "0"
+        }
+    ]
+}

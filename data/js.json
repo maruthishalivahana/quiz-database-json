@@ -1,0 +1,104 @@
+{
+    "javascriptTeasers": [
+        {
+            "question": "What will be the output of `console.log(typeof NaN);`?",
+            "options": [
+                "'number'",
+                "'NaN'",
+                "'undefined'",
+                "'object'"
+            ],
+            "answer": "'number'"
+        },
+        {
+            "question": "What does `[] + []` evaluate to in JavaScript?",
+            "options": [
+                "'undefined'",
+                "0",
+                "'' (empty string)",
+                "'[object Object]'"
+            ],
+            "answer": "'' (empty string)"
+        },
+        {
+            "question": "Which statement is true about `null` in JavaScript?",
+            "options": [
+                "`typeof null` returns 'null'",
+                "`typeof null` returns 'object'",
+                "`null instanceof Object` returns true",
+                "`null + 1` throws an error"
+            ],
+            "answer": "`typeof null` returns 'object'"
+        },
+        {
+            "question": "What will be the output of `console.log(0.1 + 0.2 === 0.3);`?",
+            "options": [
+                "true",
+                "false",
+                "undefined",
+                "TypeError"
+            ],
+            "answer": "false"
+        },
+        {
+            "question": "What does `console.log([] == ![])` return?",
+            "options": [
+                "true",
+                "false",
+                "SyntaxError",
+                "TypeError"
+            ],
+            "answer": "true"
+        },
+        {
+            "question": "Which of the following is a falsy value in JavaScript?",
+            "options": [
+                "'0'",
+                "[]",
+                "'false'",
+                "0"
+            ],
+            "answer": "0"
+        },
+        {
+            "question": "What will `console.log('5' - 2);` output?",
+            "options": [
+                "3",
+                "'3'",
+                "52",
+                "'52'"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which method removes the last element from an array?",
+            "options": [
+                "pop()",
+                "shift()",
+                "splice()",
+                "remove()"
+            ],
+            "answer": "pop()"
+        },
+        {
+            "question": "How can you check if a variable is an array in JavaScript?",
+            "options": [
+                "typeof variable === 'array'",
+                "Array.isArray(variable)",
+                "variable instanceof Object",
+                "variable.isArray()"
+            ],
+            "answer": "Array.isArray(variable)"
+        },
+        {
+            "question": "What does `console.log(!!'false');` output?",
+            "options": [
+                "true",
+                "false",
+                "SyntaxError",
+                "undefined"
+            ],
+            "answer": "true"
+        }
+    ]
+}

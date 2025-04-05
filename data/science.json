@@ -1,0 +1,104 @@
+{
+    "science": [
+        {
+            "question": "What is the chemical symbol for water?",
+            "options": [
+                "O2",
+                "H2O",
+                "CO2",
+                "NaCl"
+            ],
+            "answer": "H2O"
+        },
+        {
+            "question": "What planet is known as the Red Planet?",
+            "options": [
+                "Earth",
+                "Venus",
+                "Mars",
+                "Jupiter"
+            ],
+            "answer": "Mars"
+        },
+        {
+            "question": "How many bones are in the human body?",
+            "options": [
+                "206",
+                "210",
+                "180",
+                "250"
+            ],
+            "answer": "206"
+        },
+        {
+            "question": "What gas do plants absorb from the air?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Hydrogen"
+            ],
+            "answer": "Carbon Dioxide"
+        },
+        {
+            "question": "Which organ pumps blood in the human body?",
+            "options": [
+                "Lungs",
+                "Brain",
+                "Heart",
+                "Liver"
+            ],
+            "answer": "Heart"
+        },
+        {
+            "question": "What is the largest planet in our solar system?",
+            "options": [
+                "Earth",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "answer": "Jupiter"
+        },
+        {
+            "question": "What is the hardest natural substance on Earth?",
+            "options": [
+                "Gold",
+                "Iron",
+                "Diamond",
+                "Platinum"
+            ],
+            "answer": "Diamond"
+        },
+        {
+            "question": "Which part of the plant conducts photosynthesis?",
+            "options": [
+                "Roots",
+                "Stem",
+                "Leaves",
+                "Flowers"
+            ],
+            "answer": "Leaves"
+        },
+        {
+            "question": "What is the primary source of energy for Earth?",
+            "options": [
+                "The Moon",
+                "The Sun",
+                "Volcanoes",
+                "Electricity"
+            ],
+            "answer": "The Sun"
+        },
+        {
+            "question": "What is the name of the first man to walk on the Moon?",
+            "options": [
+                "Buzz Aldrin",
+                "Yuri Gagarin",
+                "Neil Armstrong",
+                "Michael Collins"
+            ],
+            "answer": "Neil Armstrong"
+        }
+    ]
+}

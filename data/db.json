@@ -1,0 +1,244 @@
+{
+  "userDetails": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "password": "securepassword123"
+    },
+    {
+      "id": "93f9",
+      "names": "maruthi",
+      "email": "maruti@gmail.com",
+      "password": "maruti"
+    },
+    {
+      "id": "bd60",
+      "names": "maruthi",
+      "email": "maruti@gmail.com",
+      "password": "maruti"
+    },
+    {
+      "id": "f2fa",
+      "names": "nandha kishore",
+      "email": "nandha@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "b250",
+      "names": "gopi",
+      "email": "gopi@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "e0bb",
+      "names": "naveen",
+      "email": "naveen@gmail.com",
+      "password": "naveen"
+    },
+    {
+      "id": "b755",
+      "names": "ram",
+      "email": "ram@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "9009",
+      "names": "vamshi",
+      "email": "vamshi@gmail.com",
+      "password": "maruti"
+    },
+    {
+      "id": "1a73",
+      "names": "maruti",
+      "email": "maruthi",
+      "password": "maruthj"
+    },
+    {
+      "id": "ada5",
+      "names": "maruthi",
+      "email": "mamma",
+      "password": "ma am"
+    },
+    {
+      "id": "9bf1",
+      "names": "varshith",
+      "email": "varshith@gmail.com",
+      "password": "vaeshith"
+    },
+    {
+      "id": "476c",
+      "names": "maruthi",
+      "email": "maruthi@gmail.com",
+      "password": "manrno"
+    },
+    {
+      "id": "c8e3",
+      "names": "maruthi",
+      "email": "maruthikummari@gmail.com",
+      "password": "gmail"
+    },
+    {
+      "id": "64ff",
+      "names": "sreeyansh",
+      "email": "sreeyansh@gmail.com",
+      "password": "sreeyansh"
+    },
+    {
+      "id": "8197",
+      "names": "pranavipriya",
+      "email": "pranavipriya@gmail.com",
+      "password": "pranavipriya"
+    },
+    {
+      "id": "e654",
+      "names": "ramulu",
+      "email": "ramu@gmail.com",
+      "password": "ramu"
+    },
+    {
+      "id": "bc00",
+      "names": "nandha",
+      "email": "nandha@gmail.com",
+      "password": "nandha"
+    },
+    {
+      "id": "32f5",
+      "names": "gopi",
+      "email": "gopi@gmail.com",
+      "password": "gopi"
+    },
+    {
+      "id": "16de",
+      "names": "sreeyansh",
+      "email": "sreeyansh@gmail.com",
+      "password": "srt"
+    },
+    {
+      "id": "9884",
+      "names": "maruthi",
+      "email": "ramu@gmail.com",
+      "password": "c mc "
+    },
+    {
+      "id": "8662",
+      "names": "maruthi",
+      "email": "pranavipriya@gmail.com",
+      "password": "maruthi"
+    },
+    {
+      "id": "330e",
+      "names": "maruthi",
+      "email": "maruthikummari@gmail.com",
+      "password": "k"
+    },
+    {
+      "id": "0d71",
+      "names": "maruthi",
+      "email": "pranavipriya@gmail.com",
+      "password": "kk"
+    },
+    {
+      "id": "fa36",
+      "names": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "1864",
+      "names": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "097a",
+      "names": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "0375",
+      "names": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "1681",
+      "names": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "2a3a",
+      "names": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "822c",
+      "names": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "19d1",
+      "names": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "cd37",
+      "names": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "5d95",
+      "names": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "d6e1",
+      "names": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "7cc9",
+      "names": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "69ee",
+      "names": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "e73b",
+      "names": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "af2e",
+      "names": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "e6fe",
+      "names": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "663d",
+      "names": "",
+      "email": "",
+      "password": ""
+    }
+  ]
+}

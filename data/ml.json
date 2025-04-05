@@ -1,0 +1,104 @@
+{
+    "machine_learning_with_ai_basic": [
+        {
+            "question": "What is Machine Learning?",
+            "options": [
+                "Manually coding behavior",
+                "A way for machines to learn from data",
+                "Using hardware to increase speed",
+                "A type of spreadsheet"
+            ],
+            "answer": "A way for machines to learn from data"
+        },
+        {
+            "question": "Which of these is a type of Machine Learning?",
+            "options": [
+                "Manual learning",
+                "Supervised learning",
+                "Code learning",
+                "Table-based learning"
+            ],
+            "answer": "Supervised learning"
+        },
+        {
+            "question": "What is the goal of supervised learning?",
+            "options": [
+                "To create videos",
+                "To label data manually",
+                "To learn from labeled data",
+                "To clean the dataset"
+            ],
+            "answer": "To learn from labeled data"
+        },
+        {
+            "question": "Which library is commonly used in Python for Machine Learning?",
+            "options": [
+                "NumPy",
+                "Matplotlib",
+                "TensorFlow",
+                "Pandas"
+            ],
+            "answer": "TensorFlow"
+        },
+        {
+            "question": "What does a 'model' do in Machine Learning?",
+            "options": [
+                "Stores web pages",
+                "Saves passwords",
+                "Makes predictions based on data",
+                "Creates UI elements"
+            ],
+            "answer": "Makes predictions based on data"
+        },
+        {
+            "question": "What is 'overfitting' in ML?",
+            "options": [
+                "When the model fits the training data too well",
+                "When data is missing",
+                "When hardware overheats",
+                "When a model trains too slowly"
+            ],
+            "answer": "When the model fits the training data too well"
+        },
+        {
+            "question": "Which of the following is an example of classification?",
+            "options": [
+                "Predicting temperature",
+                "Predicting price",
+                "Detecting spam emails",
+                "Measuring rainfall"
+            ],
+            "answer": "Detecting spam emails"
+        },
+        {
+            "question": "What is the purpose of a 'training set'?",
+            "options": [
+                "To decorate UI",
+                "To teach the model",
+                "To store backups",
+                "To test internet speed"
+            ],
+            "answer": "To teach the model"
+        },
+        {
+            "question": "Which algorithm is commonly used for classification problems?",
+            "options": [
+                "Linear Regression",
+                "K-Means",
+                "Decision Tree",
+                "PCA"
+            ],
+            "answer": "Decision Tree"
+        },
+        {
+            "question": "In AI, what does 'NLP' stand for?",
+            "options": [
+                "Neural Learning Program",
+                "Natural Language Processing",
+                "Non-Linear Prediction",
+                "Neural Layer Predictor"
+            ],
+            "answer": "Natural Language Processing"
+        }
+    ]
+}
