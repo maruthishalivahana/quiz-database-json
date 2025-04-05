@@ -7,7 +7,7 @@ const router = jsonServer.router({
   debug: require('./data/debug.json'),
   js: require('./data/js.json'),
   ml: require('./data/ml.json'),
-  progamming: require('./data/progamming.json'), // watch typo!
+  progamming: require('./data/programming.json'), // watch typo!
   quiz: require('./data/quiz.json'),
   science: require('./data/science.json'),
   sql: require('./data/sql.json'),
