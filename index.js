@@ -1,3 +1,5 @@
+const cors = require('cors');
+server.use(cors()); 
 const jsonServer = require('json-server');
 const server = jsonServer.create();
 const router = jsonServer.router({
